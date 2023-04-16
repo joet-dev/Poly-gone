@@ -1,4 +1,4 @@
-# Poly-gone
+# Poly-gone :small_red_triangle:
 
 **`Created 2020`**
 
